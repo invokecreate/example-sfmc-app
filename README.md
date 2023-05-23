@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the README.md file with a revised "Usage" section:
-
-```markdown
 ## Usage
 
 To use example-sfmc-app in a production environment, follow the steps below:
