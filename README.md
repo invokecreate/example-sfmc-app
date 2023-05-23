@@ -5,7 +5,7 @@ To use example-sfmc-app in a production environment, follow the steps below:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/example-sfmc-app.git
+   git clone https://github.com/invokecreate/example-sfmc-app.git
    ```
 
 2. Install the dependencies:
