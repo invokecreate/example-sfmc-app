@@ -16,6 +16,7 @@ To use example-sfmc-app in a production environment, follow the steps below:
    ```
 
 3. Configure the application by setting the required environment variables:
+   - `appSecret`: The secret key used for session management in the application.
    - `clientId`: The client ID for your SFMC API integration.
    - `clientSecret`: The client secret for your SFMC API integration.
    - `redirectUri`: The redirect URI for the application.
@@ -45,6 +46,7 @@ For additional information on configuring and customizing the application, refer
 
 The following environment variables are required for configuring the application:
 
+- `appSecret`: The secret key used for session management in the application.
 - `clientId`: The client ID for your SFMC API integration.
 - `clientSecret`: The client secret for your SFMC API integration.
 - `redirectUri`: The redirect URI for the application.
