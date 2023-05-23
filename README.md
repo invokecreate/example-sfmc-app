@@ -53,4 +53,3 @@ You can set these environment variables in your hosting environment or use a too
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
