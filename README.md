@@ -18,6 +18,7 @@ To use example-sfmc-app in a production environment, follow the steps below:
 3. Configure the application by setting the required environment variables:
    - `clientId`: The client ID for your SFMC API integration.
    - `clientSecret`: The client secret for your SFMC API integration.
+   - `redirectUri`: The redirect URI for the application.
    - `subdomain`: The SFMC subdomain for your account.
 
    You can set these environment variables in your hosting environment or use a tool like [dotenv](https://www.npmjs.com/package/dotenv) to load them from a file.
@@ -46,10 +47,11 @@ The following environment variables are required for configuring the application
 
 - `clientId`: The client ID for your SFMC API integration.
 - `clientSecret`: The client secret for your SFMC API integration.
+- `redirectUri`: The redirect URI for the application.
 - `subdomain`: The SFMC subdomain for your account.
 
 You can set these environment variables in your hosting environment or use a tool like [dotenv](https://www.npmjs.com/package/dotenv) to load them from a file.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
